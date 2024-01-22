@@ -6,10 +6,10 @@
     "start": "npx directus start"
   },
   "engines": {
-    "node": ">=12.20.0"
+    "node": ">=18"
   },
   "dependencies": {
-    "directus": "^10.4.2",
-    "pg": "^8.11.0"
+    "directus": "^10.8.3",
+    "pg": "^8.11.3"
   }
 }
